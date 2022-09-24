@@ -1,2 +1,2 @@
 # PRAG-mirror
-un-official mirror of https://medium.com/@pragroup
+the officially unofficial mirror of https://medium.com/@pragroup
